@@ -1,7 +1,7 @@
 # HMM-Aplicacion de Simulación- Mercados Financieros
 
 **Descripción**  
-Aplicación en Python que implementa un Hidden Markov Model (HMM) para simular regímenes de mercado, generar series de precios condicionadas a estados ocultos, realizar inferencias (Viterbi propio y adaptador a `hmmlearn`) y visualizar resultados mediante una interfaz gráfica (Tkinter + Matplotlib). Incluye análisis de métricas financieras, histograma de retornos, grafo de transiciones y una gráfica comparativa entre proporción simulada y probabilidad estacionaria teórica.
+Aplicación en Python que implementa un Hidden Markov Model (HMM) para simular regímenes de mercado, generar series de precios condicionadas a estados ocultos, realizar inferencias (Viterbi propio y adaptador a `hmmlearn`) y visualizar resultados mediante una interfaz gráfica (Tkinter + Matplotlib + Seaborn). Incluye análisis de métricas financieras, histograma de retornos, grafo de transiciones, Heatmap y una gráfica comparativa entre proporción simulada y probabilidad estacionaria teórica.
 
 ---
 
