@@ -1,9 +1,7 @@
-"""
-analysis_hmmlearn.py: Utilidades para ejecutar y comparar inferencia con hmmlearn y con el fallback.
+"""analysis_hmmlearn.py: Utilidades para ejecutar y comparar inferencia con hmmlearn y con el fallback.
 """
 import numpy as np
 import inference
-
 def run_hmmlearn_decode(model):
     """
     Ejecuta decode con hmmlearn (si está disponible).

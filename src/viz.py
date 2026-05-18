@@ -1,6 +1,4 @@
-"""
-viz.py
-
+"""viz.py
 Funciones de visualización reutilizables para la aplicación HMM.
 Incluye:
 - plot_price_with_regimes

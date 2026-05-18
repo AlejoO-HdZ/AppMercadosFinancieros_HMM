@@ -1,9 +1,6 @@
-"""
-inference.py
-
+"""inference.py
 Viterbi: fallback en log-space y adaptador robusto para hmmlearn.
 """
-
 import numpy as np
 
 # IMPORT DIRECTO: Se asume que el entorno tiene hmmlearn instalado si se usa infer_with_hmmlearn.

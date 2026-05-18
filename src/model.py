@@ -1,6 +1,5 @@
 """model.py - Simulación HMM, log, métricas y validaciones empíricas.
 """
-
 import time
 import numpy as np
 import pandas as pd

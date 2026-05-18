@@ -1,4 +1,3 @@
-# main.py
 """HMM Simulación - main.py
 - Incluye editor de matrices A, B y distribución inicial pi.
 - Panel principal: grafo coloreado por frecuencia empírica y recorrido resaltado.
@@ -10,7 +9,6 @@
     - Conclusiónes.
 Requiere: model.py, inference.py, viz.py, analysis_hmmlearn.py
 """
-
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import matplotlib.pyplot as plt
