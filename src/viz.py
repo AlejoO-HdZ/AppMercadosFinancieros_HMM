@@ -376,7 +376,6 @@ def plot_state_heatmap(ax, state_sequence, state_names):
     if not state_sequence:
         ax.set_title("Heatmap de estados (no hay datos)")
         return
-
     seq = pd.Series(state_sequence)
     T = len(seq)
     n = len(state_names)
